@@ -14,11 +14,7 @@ The Auctions Django Project is an online auction platform implemented in Python 
 - **Comments:** Users can leave comments on listings.
 - **Auction Closure:** The system allows for closing auctions and declaring winners.
 
-## Demo
 
-Explore a live demo of the Auctions Django app in action:
-
-[![Auctions Django app Demo](https://i.ytimg.com/vi/bQvHZ2pio2E/maxresdefault.jpg)](https://youtu.be/uXsCpjPq1oI)
 
 ## Django Admin Interface
 
